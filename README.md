@@ -27,4 +27,3 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=LopesBIel0006&theme=github-dark-blue)](https://git.io/streak-stats)
 
-![Profile Views](https://komarev.com/ghpvc/?username=LopesBIel0006&color=blue)
